@@ -8,7 +8,7 @@
 
 const BC_CONFIG = {
   // URL do Apps Script — cole aqui após reimplantar com api.gs
-  API_URL: 'https://script.google.com/macros/s/SEU_DEPLOYMENT_ID_AQUI/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycby37B7_UIV3EDsJEFUShulpxTEEjxhiYfGfGQhBI9e8YT8QGc16C9nKNkBTiiIz8Twi9Q/exec',
 
   // Duração da sessão no localStorage (ms) — 8 horas
   SESSION_DURATION: 8 * 60 * 60 * 1000,
